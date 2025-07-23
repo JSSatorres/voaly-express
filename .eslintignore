@@ -1,0 +1,12 @@
+**/*.css
+.vscode/
+node_modules/
+dist/
+coverage/
+build/
+*.log
+*.lock
+*.env
+*.DS_Store
+*.swp
+*.serverless/
